@@ -1,4 +1,4 @@
-import { Price, Token } from '@uniswap/sdk-core'
+import { Price, Token } from '@phuphamdeltalabs/sdkcore'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 
