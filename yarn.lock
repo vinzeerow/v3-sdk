@@ -1409,18 +1409,6 @@
   resolved "https://registry.yarnpkg.com/@openzeppelin/contracts/-/contracts-3.4.2-solc-0.7.tgz#38f4dbab672631034076ccdf2f3201fab1726635"
   integrity sha512-W6QmqgkADuFcTLzHL8vVoNBtkwjvQRpYIAom7KiUNoLKghyx3FgH0GBjt8NRvigV1ZmMOBllvE1By1C+bi8WpA==
 
-"@phuphamdeltalabs/sdkcore@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@phuphamdeltalabs/sdkcore/-/sdkcore-5.0.0.tgz#700882e857ea3c87bf6e2b5ab4b825f043bc188d"
-  integrity sha512-bZ0iq+3Fuc53SDqDxG/te4zcgadOFIsV90zBp8F/iykCTQLPRnHkNfFIxUzm/kVx4JOcCkwWp+G+RwSj6o74Qg==
-  dependencies:
-    "@ethersproject/address" "^5.0.2"
-    big.js "^5.2.2"
-    decimal.js-light "^2.5.0"
-    jsbi "^3.1.4"
-    tiny-invariant "^1.1.0"
-    toformat "^2.0.0"
-
 "@rollup/plugin-babel@^5.1.0":
   version "5.3.1"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-babel/-/plugin-babel-5.3.1.tgz#04bc0608f4aa4b2e4b1aebf284344d0f68fda283"
@@ -1484,6 +1472,18 @@
   integrity sha512-Ky+XkAkqPZSm3NLBeUng77EBQl3cmeJhITaGHdYH8kjVB+aun3S4XBRti2zt17mtt0mIUDiNxYeoJm6drVvBJQ==
   dependencies:
     type-detect "4.0.8"
+
+"@tpvinh/sdk-core@^1.0.0":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@tpvinh/sdk-core/-/sdk-core-1.0.1.tgz#f383f4500d0f4ce1f3c39eea7c6502fc72b492cc"
+  integrity sha512-0radAwbDD3FrOYLnMBg5KUxJEmon/eI1BD7vfvCYeG8pmRMYm7hvJZAzenfdwcS+IEaab4Ex3bwHfSlgOCpa/Q==
+  dependencies:
+    "@ethersproject/address" "^5.0.2"
+    big.js "^5.2.2"
+    decimal.js-light "^2.5.0"
+    jsbi "^3.1.4"
+    tiny-invariant "^1.1.0"
+    toformat "^2.0.0"
 
 "@types/babel__core@^7.1.7":
   version "7.20.1"

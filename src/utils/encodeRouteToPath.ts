@@ -1,5 +1,5 @@
 import { pack } from '@ethersproject/solidity'
-import { Currency, Token } from '@phuphamdeltalabs/sdkcore'
+import { Currency, Token } from '@tpvinh/sdk-core'
 import { Pool } from '../entities/pool'
 import { Route } from '../entities/route'
 

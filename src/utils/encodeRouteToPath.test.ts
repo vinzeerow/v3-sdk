@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from '@phuphamdeltalabs/sdkcore'
+import { Ether, Token, WETH9 } from '@tpvinh/sdk-core'
 import { FeeAmount } from '../constants'
 import { Pool } from '../entities/pool'
 import { Route } from '../entities/route'

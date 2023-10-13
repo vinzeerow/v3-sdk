@@ -1,4 +1,4 @@
-import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from '@phuphamdeltalabs/sdkcore'
+import { Currency, Fraction, Percent, Price, sortedInsert, CurrencyAmount, TradeType, Token } from '@tpvinh/sdk-core'
 import invariant from 'tiny-invariant'
 import { ONE, ZERO } from '../internalConstants'
 import { Pool } from './pool'

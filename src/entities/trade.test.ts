@@ -1,4 +1,4 @@
-import { CurrencyAmount, Ether, Percent, Price, sqrt, Token, TradeType, WETH9 } from '@phuphamdeltalabs/sdkcore'
+import { CurrencyAmount, Ether, Percent, Price, sqrt, Token, TradeType, WETH9 } from '@tpvinh/sdk-core'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'

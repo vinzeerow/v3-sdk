@@ -1,4 +1,4 @@
-import { Percent, Token } from '@phuphamdeltalabs/sdkcore'
+import { Percent, Token } from '@tpvinh/sdk-core'
 import JSBI from 'jsbi'
 import { FeeAmount, TICK_SPACINGS } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'

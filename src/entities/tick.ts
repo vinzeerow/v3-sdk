@@ -1,6 +1,6 @@
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
-import { BigintIsh } from '@phuphamdeltalabs/sdkcore'
+import { BigintIsh } from '@tpvinh/sdk-core'
 import { TickMath } from '../utils'
 
 export interface TickConstructorArgs {

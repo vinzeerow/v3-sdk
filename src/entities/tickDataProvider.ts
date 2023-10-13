@@ -1,4 +1,4 @@
-import { BigintIsh } from '@phuphamdeltalabs/sdkcore'
+import { BigintIsh } from '@tpvinh/sdk-core'
 
 /**
  * Provides information about ticks

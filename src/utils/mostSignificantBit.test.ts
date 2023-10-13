@@ -1,4 +1,4 @@
-import { MaxUint256 } from '@phuphamdeltalabs/sdkcore'
+import { MaxUint256 } from '@tpvinh/sdk-core'
 import JSBI from 'jsbi'
 import { ONE } from '../internalConstants'
 import { mostSignificantBit } from './mostSignificantBit'

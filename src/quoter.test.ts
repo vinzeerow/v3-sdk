@@ -1,5 +1,5 @@
 import JSBI from 'jsbi'
-import { CurrencyAmount, Token, TradeType, WETH9 } from '@phuphamdeltalabs/sdkcore'
+import { CurrencyAmount, Token, TradeType, WETH9 } from '@tpvinh/sdk-core'
 import { FeeAmount, TICK_SPACINGS } from './constants'
 import { SwapQuoter } from './quoter'
 import { nearestUsableTick, encodeSqrtRatioX96, TickMath } from './utils'

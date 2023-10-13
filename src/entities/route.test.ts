@@ -1,4 +1,4 @@
-import { Ether, Token, WETH9 } from '@phuphamdeltalabs/sdkcore'
+import { Ether, Token, WETH9 } from '@tpvinh/sdk-core'
 import { FeeAmount } from '../constants'
 import { encodeSqrtRatioX96 } from '../utils/encodeSqrtRatioX96'
 import { TickMath } from '../utils/tickMath'

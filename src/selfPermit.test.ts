@@ -1,4 +1,4 @@
-import { Token } from '@phuphamdeltalabs/sdkcore'
+import { Token } from '@tpvinh/sdk-core'
 import JSBI from 'jsbi'
 import { AllowedPermitArguments, SelfPermit, StandardPermitArguments } from './selfPermit'
 

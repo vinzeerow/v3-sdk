@@ -1,4 +1,4 @@
-import { Price, Token } from '@phuphamdeltalabs/sdkcore'
+import { Price, Token } from '@tpvinh/sdk-core'
 import { tickToPrice } from './index'
 import { priceToClosestTick } from './priceTickConversions'
 

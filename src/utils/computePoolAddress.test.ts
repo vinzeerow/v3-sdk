@@ -1,4 +1,4 @@
-import { Token } from '@phuphamdeltalabs/sdkcore'
+import { Token } from '@tpvinh/sdk-core'
 import { FeeAmount } from '../constants'
 import { computePoolAddress } from './computePoolAddress'
 
